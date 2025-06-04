@@ -1,0 +1,56 @@
+"Search Parameters"	"Year"	"Mo"	"Dy"	"Tsu"	"Eq"	"Name"	"Location"	"Country"	"Latitude"	"Longitude"	"Elevation (m)"	"Type"	"VEI"	"Agent"	"Deaths"	"Death Description"	"Missing"	"Missing Description"	"Injuries"	"Injuries Description"	"Damage ($Mil)"	"Damage Description"	"Houses Destroyed"	"Houses Destroyed Description"	"Total Deaths"	"Total Death Description"	"Total Missing"	"Total Missing Description"	"Total Injuries"	"Total Injuries Description"	"Total Damage ($Mil)"	"Total Damage Description"	"Total Houses Destroyed"	"Total Houses Destroyed Description"
+"[""Country = Iceland""]"																																		
+	920					"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	4									1												
+	934					"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	4									1										1		
+	950					"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"										1												
+	1104	10	15			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	5									1										1		
+	1151					"Krysuvik-Trolladyngja"	"Iceland-SW"	"Iceland"	63.917	-22.067	360	"Crater rows"	1									1										1		
+	1158	1	19			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	4									1										1		
+	1177					"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	3									1										1		
+	1206	12	4			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	2									1										1		
+	1262					"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	3	"F"		1										1								
+	1300	7	11			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	4												600	3								
+	1311	1	18			"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	4	"F"		2										2								
+	1341	5	19			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	3									1										1		
+	1357					"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	4									1										1		
+	1362	6	5			"Oraefajokull"	"Iceland-SE"	"Iceland"	64	-16.65	2010	"Stratovolcano"	5	"T,F"	220	3									220	3								
+	1389	12	1			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	3									1										1		
+	1477	2				"Bardarbunga"	"Iceland-NE"	"Iceland"	64.633	-17.516	2000	"Stratovolcano"	6									1										1		
+	1500					"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	4									1										1		
+	1510	7	25			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	4	"T"	1	1									1	1								
+	1510	10	15			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	4	"I"												3								
+	1580	8	11			"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	4																					
+	1597	1	3			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	4									1										1		
+	1625	9	2			"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	5																					
+	1629					"Grimsvotn"	"Iceland-NE"	"Iceland"	64.416	-17.316	1719	"Caldera"	2	"F"	4	1									4	1								
+	1636	5	15			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	3									1										1		
+	1660	11	3			"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	4									1										1		
+	1684	12				"Grimsvotn"	"Iceland-NE"	"Iceland"	64.416	-17.316	1719	"Caldera"	2	"F"	1	1									1	1								
+	1693	2	13	347		"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	4																					
+	1712	1	15			"Bardarbunga"	"Iceland-NE"	"Iceland"	64.633	-17.516	2000	"Stratovolcano"	2									1										1		
+	1716	10	5			"Bardarbunga"	"Iceland-NE"	"Iceland"	64.633	-17.516	2000	"Stratovolcano"	2									1										1		
+	1717	8	4			"Bardarbunga"	"Iceland-NE"	"Iceland"	64.633	-17.516	2000	"Stratovolcano"	3									1										1		
+	1721	5	11			"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	5									1										1		
+	1726	2	1			"Bardarbunga"	"Iceland-NE"	"Iceland"	64.633	-17.516	2000	"Stratovolcano"	1									1										1		
+	1727	8	3			"Oraefajokull"	"Iceland-SE"	"Iceland"	64	-16.65	2010	"Stratovolcano"	4	"F"	3	1									3	1								
+	1729	2	1			"Bardarbunga"	"Iceland-NE"	"Iceland"	64.633	-17.516	2000	"Stratovolcano"	1									1										1		
+	1729	6	30			"Krafla"	"Iceland-NE"	"Iceland"	65.715	-16.728	800	"Caldera"	2									1										1		
+	1753	10	15			"Grimsvotn"	"Iceland-NE"	"Iceland"	64.416	-17.316	1719	"Caldera"	2									1										1		
+	1755	10	17			"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	4	"E"	2	1									2	1								
+	1766	4	5			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	4									1										1		
+	1784	4				"Grimsvotn"	"Iceland-NE"	"Iceland"	64.416	-17.316	1719	"Caldera"	4	"I"											9350	4								
+	1845	9	2			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	4									1										1		
+	1860					"Grimsvotn"	"Iceland-NE"	"Iceland"	64.416	-17.316	1719	"Caldera"		"m"	1	1									1	1								
+	1861	5				"Grimsvotn"	"Iceland-NE"	"Iceland"	64.416	-17.316	1719	"Caldera"	2									1										1		
+	1875	3	29			"Askja"	"Iceland-NE"	"Iceland"	65.033	-16.783	1080	"Stratovolcano"	5									1										1		
+	1918	10	12	1452		"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"	4									1										1		
+	1927	9	5			"Esjufjoll"	"Iceland-SE"	"Iceland"	64.25	-16.583	1620	"Stratovolcano"	1	"M"	1	1									1	1								
+	1947	11	2			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	4	"L"	1	1									1	1								
+	1970	5	5			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	3									1										1		
+	1973	1	27			"Vestmannaeyjar"	"Iceland-S"	"Iceland"	63.416	-20.266	283	"Submarine volcano"	3	"G"	1	1							300	3	1	1							300	3
+	1977	4	27			"Krafla"	"Iceland-NE"	"Iceland"	65.715	-16.728	800	"Caldera"	1									1										1		
+	1980	8	17			"Hekla"	"Iceland-S"	"Iceland"	63.983	-19.666	1490	"Stratovolcano"	3									1										1		
+	1996	9	30			"Grimsvotn"	"Iceland-NE"	"Iceland"	64.416	-17.316	1719	"Caldera"	3									1										1		
+	2010	3	31			"Eyjafjallajokull"	"Iceland-S"	"Iceland"	63.633	-19.633	1651	"Stratovolcano"	2		2	1									2	1								
+	2011	7	9			"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"										1										1		
+	2023	12	18			"Reykjanes"	"Iceland-SW"	"Iceland"	63.817	-22.717	140	"Crater rows"		"S,L"	1	1						2	3	1	1	1						2	3	1

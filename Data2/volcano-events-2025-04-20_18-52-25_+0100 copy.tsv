@@ -1,0 +1,63 @@
+"Search Parameters"	"Year"	"Mo"	"Dy"	"Tsu"	"Eq"	"Name"	"Location"	"Country"	"Latitude"	"Longitude"	"Elevation (m)"	"Type"	"VEI"	"Agent"	"Deaths"	"Death Description"	"Missing"	"Missing Description"	"Injuries"	"Injuries Description"	"Damage ($Mil)"	"Damage Description"	"Houses Destroyed"	"Houses Destroyed Description"	"Total Deaths"	"Total Death Description"	"Total Missing"	"Total Missing Description"	"Total Injuries"	"Total Injuries Description"	"Total Damage ($Mil)"	"Total Damage Description"	"Total Houses Destroyed"	"Total Houses Destroyed Description"
+"[""Country = Italy""]"																																		
+	-2420					"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	5	"P,T"																				
+	-141					"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"			40	1									40	1								
+	79	8	25	3093	58	"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	5	"P,T"	2100	4									2100	4								
+	787					"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	3			1						1				1						1		
+	1169	2	4	2852	421	"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"		"S,W"											16000	4						4		
+	1169	2	11	3107		"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"																						
+	1302					"Ischia"	"Italy"	"Italy"	40.73	13.897	789	"Complex volcano"				1										1								
+	1329	6	28	3112	9973	"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	3																			1		1
+	1329	7	15			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	3	"I"		3										3								
+	1536	3	26			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	3	"T"	1	1									1	1								
+	1538	9	29			"Campi Flegrei"	"Italy"	"Italy"	40.827	14.139	458	"Caldera"	3	"T"	24	1									24	1								
+	1631	12	16	3129	9756	"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	5	"P,E,M"	4000	4						4		4	4000	4						4		4
+	1669	3	11		1057	"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	3			3										3								
+	1669	3	19			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	3	"L"	2	1			5	1					2	1			5	1				
+	1682	8	12			"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	3		4	1									4	1								
+	1690	2	3	3138		"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	3	"W"																				
+	1693	1	9		1129	"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"																						
+	1698	5		3141		"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	3																					
+	1714	6	30	3150		"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"																						
+	1737	5	20			"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	3	"T"	2	1						2			2	1						2		
+	1779	8	8			"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	3			1										1								
+	1794	6	15			"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	3	"M,L,T,G"	400	3						3			400	3						3		
+	1805	8	11			"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	2		4	1									4	1								
+	1813	5		3221		"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	2																					
+	1832	11	1			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	2	"L"		2										2								
+	1843	11	25			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	2	"L"	59	2				2					59	2				2				
+	1868	9	5	3451	7967	"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"																						
+	1872	4	24			"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	3	"L,G"	9	1			11	1					9	1			11	1				
+	1873					"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"		"G,T"	9	1									9	1								
+	1879	2	4	5480		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2																					
+	1905	3	10			"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	2	"T"	1	1			1	1					1	1			1	1				
+	1906	4	4	3413		"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	3	"T,L"	350	3			300	3					350	3			300	3				
+	1916	7	3	3147		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	3																			1		
+	1919	5	22	1476		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	3	"T"	4	1				3		1	10	1	4	1				3		1	10	1
+	1928	11	8			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	1	"L"	5	1									5	1								
+	1929	8	2			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	1	"T"	2	1									2	1								
+	1930	9	11	4218		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	3	"P,W,T"	5	1			20	1		2			6	1			20	1		2		
+	1944	3	27			"Vesuvius"	"Italy"	"Italy"	40.821	14.426	1281	"Complex volcano"	3	"T,L,I"	27	1									27	1								
+	1944	8	20	4227		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"W"																		1	1	1
+	1954	2		3395		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"		"W"																		1		
+	1970	3	2			"Campi Flegrei"	"Italy"	"Italy"	40.827	14.139	458	"Caldera"		"S"	3	1						1		1	3	1						1		1
+	1979	9	12			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	3	"T"	9	1			23	1					9	1			23	1				
+	1981	3	17			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	2								10	3												
+	1984	10	16			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	3	"S"	1	1									1	1								
+	1985	12	19			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	1	"S"	1	1									1	1								
+	1986	7	24			"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"T"	1	1									1	1								
+	1987	4	17			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	2	"T"	2	1			7	1					2	1			7	1				
+	1991	12	14			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	2								2.5	2									2.5	2		
+	2001	5	14			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	3		1	1						1			1	1						1		
+	2001	7	26			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	2									1		1								1		1
+	2001	10	20			"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"T"	1	1									1	1								
+	2002	8	28		5659	"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	3						32	1		2		2					32	1		2		2
+	2002	12	30	2923		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"								1		1		1						1		1		1
+	2017	3	15			"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"		"P"					10	1									10	1				
+	2017	9	12			"Campi Flegrei"	"Italy"	"Italy"	40.827	14.139	458	"Caldera"			3	1									3	1								
+	2018	12	26		10383	"Etna"	"Italy"	"Italy"	37.748	14.999	3357	"Stratovolcano"	2	"S"															28	1	115	4	15	1
+	2019	7	3	5913		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"P,T,W"	1	1			1	1					1	1			1	1				
+	2019	8	28	5716		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"W"																				
+	2021	5	19	5912		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"W"																				
+	2022	10	9	5865		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"P,W"																				
+	2022	12	4	5868		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"P,W"																				
