@@ -8,8 +8,8 @@ This repo includes various scripts and files that were used to generate visual o
 
 🌐 Related Projects
 
-Totoro's Disaster Academy Website – The full website that hosts these visualisations - https://aki120900.github.io/Totoro-s-Disaster-Academy/ 
-Totoro's Disaster Academy GitHub Repo - https://github.com/Aki120900/Totoro-s-Disaster-Academy
+- Totoro's Disaster Academy Website – The full website that hosts these visualisations - https://aki120900.github.io/Totoro-s-Disaster-Academy/
+- Totoro's Disaster Academy GitHub Repo - https://github.com/Aki120900/Totoro-s-Disaster-Academy
 
-Graduation Project Blog – Blog content and reflections - https://aki120900.github.io/blog_graduation_project/
-Blog GitHub Repo - https://github.com/Aki120900/blog_graduation_project
+- Graduation Project Blog – Blog content and reflections - https://aki120900.github.io/blog_graduation_project/
+- Blog GitHub Repo - https://github.com/Aki120900/blog_graduation_project
