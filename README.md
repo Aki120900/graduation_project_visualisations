@@ -12,4 +12,4 @@ Totoro's Disaster Academy Website – The full website that hosts these visualis
 Totoro's Disaster Academy GitHub Repo - https://github.com/Aki120900/Totoro-s-Disaster-Academy
 
 Graduation Project Blog – Blog content and reflections - https://aki120900.github.io/blog_graduation_project/
-Blog GitHub Repo - 
+Blog GitHub Repo - https://github.com/Aki120900/blog_graduation_project
