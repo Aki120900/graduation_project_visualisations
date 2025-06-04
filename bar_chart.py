@@ -1,59 +1,47 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
-import os
 
-# Your local file paths (update if needed)
-files = {
-    "Indonesia": "/Users/alexandrapastouchova/Desktop/UAL/Year 3/Graduation project/Graduation project /Visualisations/Tsunamis/tsunamis_Indonesia.csv",
-    "Japan": "/Users/alexandrapastouchova/Desktop/UAL/Year 3/Graduation project/Graduation project /Visualisations/Tsunamis/tsunamis_Japan.csv",
-    "Alaska": "/Users/alexandrapastouchova/Desktop/UAL/Year 3/Graduation project/Graduation project /Visualisations/Tsunamis/tsunamis_Alaska.csv",
-    "Russia": "/Users/alexandrapastouchova/Desktop/UAL/Year 3/Graduation project/Graduation project /Visualisations/Tsunamis/tsunamis_Russia.csv"
-}
+# Load the datasets
+afghanistan_df = pd.read_csv("/Users/alexandrapastouchova/Desktop/UAL/Year 3/Graduation project/Graduation project /Visualisations/Landslides/Afghanistan_by_subsectors.csv")
+china_df = pd.read_csv("/Users/alexandrapastouchova/Desktop/UAL/Year 3/Graduation project/Graduation project /Visualisations/Landslides/China_Landslide_by_subsectors.csv")
+india_df = pd.read_csv("/Users/alexandrapastouchova/Desktop/UAL/Year 3/Graduation project/Graduation project /Visualisations/Landslides/India_Landslide_by_subsectors.csv")
+pakistan_df = pd.read_csv("/Users/alexandrapastouchova/Desktop/UAL/Year 3/Graduation project/Graduation project /Visualisations/Landslides/Pakistan_Landslide_by_subsectors.csv")
 
-# Folder where PNGs will be saved (same as script)
-output_folder = os.path.dirname(os.path.abspath(__file__))
+# Function to summarise damage by subhazard
+def summarise_by_subhazard(df, country_name):
+    summary = df.groupby("Subhazard")["Million USD"].sum().reset_index()
+    summary["Country"] = country_name
+    return summary
 
-for country, file in files.items():
-    df = pd.read_csv(file)
+# Summarise each country
+afg_summary = summarise_by_subhazard(afghanistan_df, "Afghanistan")
+chn_summary = summarise_by_subhazard(china_df, "China")
+ind_summary = summarise_by_subhazard(india_df, "India")
+pak_summary = summarise_by_subhazard(pakistan_df, "Pakistan")
 
-    # Filter tsunamis with height > 5 m
-    df = df[df["Maximum Water Height (m)"] > 5]
+# Combine summaries into a single DataFrame
+combined_df = pd.concat([afg_summary, chn_summary, ind_summary, pak_summary])
 
-    if df.empty:
-        print(f"No tsunami data over 5 m in {country}")
-        continue
+# Pivot the data for plotting
+pivot_df = combined_df.pivot(index="Country", columns="Subhazard", values="Million USD").fillna(0)
 
-    # Use correct location column (some use "Location", others "Location Name")
-    location_column = "Location"
-    if "Location" not in df.columns and "Location Name" in df.columns:
-        location_column = "Location Name"
+# Create the plot
+fig, ax = plt.subplots(figsize=(12, 7))
+pivot_df.plot(kind='bar', ax=ax, logy=True)
 
-    # Create labels for x-axis
-    labels = df[location_column].astype(str) + " (" + df["Year"].astype(str) + ")"
-    wave_heights = df["Maximum Water Height (m)"].fillna(0)
-    magnitudes = df["Earthquake Magnitude"].fillna(0)
+# Add value labels with two decimal points
+for container in ax.containers:
+    ax.bar_label(container, fmt='%.2f', label_type='edge', fontsize=9)
 
-    x = np.arange(len(labels))
-    width = 0.35
+# Set titles and axis labels
+ax.set_title("Economic Damage by Subhazard in Each Country (Log Scale)", fontsize=16, fontweight='bold')
+ax.set_ylabel("Million USD (log scale)")
+ax.set_xlabel("Country")
+ax.legend(title="Subhazard")
 
-    # Create plot
-    fig, ax = plt.subplots(figsize=(14, 6))
-    ax.bar(x - width / 2, wave_heights, width, label="Wave Height (m)", color="blue")
-    ax.bar(x + width / 2, magnitudes, width, label="Earthquake Magnitude", color="red")
+# Improve layout
+plt.xticks(rotation=0)
+plt.tight_layout()
 
-    ax.set_title(f"Tsunamis in {country} with Wave Height > 5 m")
-    ax.set_xlabel("Location (Year)")
-    ax.set_ylabel("Magnitude / Wave Height (m)")
-    ax.set_xticks(x)
-    ax.set_xticklabels(labels, rotation=45, ha="right")
-    ax.legend()
-    plt.tight_layout()
-
-    # Save PNG
-    output_path = os.path.join(output_folder, f"tsunami_chart_{country}.png")
-    plt.savefig(output_path, dpi=300)
-    print(f"Saved: {output_path}")
-
-    # Optional: show the chart
-    plt.show()
+# Save the plot
+plt.savefig("Economic_Damage_LogScale_2Decimals.png", format='png')
