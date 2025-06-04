@@ -1,0 +1,267 @@
+"Search Parameters"	"Year"	"Mo"	"Dy"	"Hr"	"Mn"	"Sec"	"Tsunami Event Validity"	"Tsunami Cause Code"	"Earthquake Magnitude"	"Vol"	"More Info"	"Deposits"	"Country"	"Location Name"	"Latitude"	"Longitude"	"Maximum Water Height (m)"	"Number of Runups"	"Tsunami Magnitude (Abe)"	"Tsunami Magnitude (Iida)"	"Tsunami Intensity"	"Deaths"	"Death Description"	"Missing"	"Missing Description"	"Injuries"	"Injuries Description"	"Damage ($Mil)"	"Damage Description"	"Houses Destroyed"	"Houses Destroyed Description"	"Houses Damaged"	"Houses Damaged Description"	"Total Deaths"	"Total Death Description"	"Total Missing"	"Total Missing Description"	"Total Injuries"	"Total Injuries Description"	"Total Damage ($Mil)"	"Total Damage Description"	"Total Houses Destroyed"	"Total Houses Destroyed Description"	"Total Houses Damaged"	"Total Houses Damaged Description"
+"[""Country = INDONESIA""]"																																													
+	416						2	6		4562		0	"INDONESIA"	"JAVA-S. JAVA"	-6.102	105.423		4		2	3.5		3						4						3						4				
+	1550						1	6		663		0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	0.32	127.4		0																							1				
+	1608	7	1				3	6		607		0	"INDONESIA"	"GAMALAMA, TERNATE ISLAND"	0.8	127.325		1			1.5		1												1						1				
+	1629	8	1				3	1				0	"INDONESIA"	"BANDA SEA"	-4.6	129.9	16	3		4	3								2		2										2		2		
+	1630						-1	1				0	"INDONESIA"	"BANDA SEA"	-4.6	129.9		0		1																									
+	1646	7	19				1	4		664		0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	0.32	127.4	1.5	0																	3										
+	1648	2	29				-1	0				0	"INDONESIA"	"BANDA SEA"				0																											
+	1657	12					2	1				0	"INDONESIA"	"BANDA SEA"	-3	128		1		1	1																								
+	1659	11	11				2	6		457		0	"INDONESIA"	"BANDA SEA"	-6.92	129.125	1.5	1			0																								
+	1673	5	20				-1	6				0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1.375	127.52		0																											
+	1673	7	12				-1	1				0	"INDONESIA"	"BANDA SEA"	-3	128		0																											
+	1673	8	12				3	6		599		0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1.375	127.52		1		1	1														3						1		1		
+	1674	2	17	11	30		4	3	6.8			0	"INDONESIA"	"BANDA SEA"	-3.75	127.75	100	33		2	1.5	2244	4			6	1		3		3			2330	4			41	1		3		3		
+	1674	5	6				3	1	6			0	"INDONESIA"	"BANDA SEA"	-3.7	128.2		1		1	0																								
+	1681	12	11				2	1				0	"INDONESIA"	"SUMATRA"				0																											
+	1690						-1	0				0	"INDONESIA"	"BANDA SEA"				0																											
+	1708	11	28				3	1				0	"INDONESIA"	"BANDA SEA"	-3.69	128.15		2		2	2								1												1				
+	1710	3	6				3	1				0	"INDONESIA"	"BANDA SEA"	-4.53	129.9		1		1	1.5								1												3				3
+	1711	9	5				4	1	7			0	"INDONESIA"	"BANDA SEA"	-4	129	1.2	2		1	1.5	2	1						1	2	1			2	1						1	2	1		
+	1722	10					1	1				0	"INDONESIA"	"DJAKARTA (JAKARTA), JAVA"	-6.174	106.829		1			0																								
+	1754	8	18				3	1	6.5			0	"INDONESIA"	"BANDA SEA"	-3.5	128.5		3			0													4	1						2		2		2
+	1754	9	7				2	1				0	"INDONESIA"	"BANDA SEA"	-3.5	128.5		1		1	0																								
+	1757	8	24				2	1	7.5			0	"INDONESIA"	"JAKARTA"	-6	107	0.5	1			-0.5																								
+	1763	9	12				3	1				0	"INDONESIA"	"BANDA SEA"	-6	130	9	2			2.5	7	1											7	1						2		3		
+	1770						3	1	7	7542		0	"INDONESIA"	"SW. SUMATRA"	-5	102		1			0.5																				3		3		
+	1771	11	9				1	4		617		0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	0.8	127.325		1			0.5	1	1											1	1										
+	1773						-1	6				0	"INDONESIA"	"KALIMANTAN ISLAND"				0																											
+	1775	4	18				3	1				0	"INDONESIA"	"AMBON ISLAND"	-3.7	128.2		1			0																				1				
+	1797	2	10				4	1	8			1	"INDONESIA"	"SW. SUMATRA"	0.001	99		2			3	300	3						2		3			300	3						2		3		
+	1799						-1	1				0	"INDONESIA"	"SE. SUMATRA"	-2	101	15	0			1																								
+	1802	8					2	1				0	"INDONESIA"	"BANDA SEA"	-3.7	128.2		1		1	1.5								2												2				
+	1814						2	1				0	"INDONESIA"	"TIMOR ISLAND"	-10.217	123.633		1		1	0																				3				
+	1815	4	10				4	6		367		1	"INDONESIA"	"TAMBORA"	-8.2	118	4	6		2	1.5		3						1					60000	4				4		4		4		
+	1815	4	11				1	1				0	"INDONESIA"	"AMBON ISLAND"	-3.7	128.4		1																							2		2		
+	1815	11	22				3	3	7			0	"INDONESIA"	"BALI SEA"	-8	115		1		1	1.5	1200	4											11453	3										
+	1816	5	1				2	1				0	"INDONESIA"	"MALACCA STRAIT"	5	96.5		1			0																								
+	1818	3	18				3	3	7			0	"INDONESIA"	"BENGKULU, SUMATRA"	-4	101.5		1			1.5								1												1				
+	1818	11	8				2	1	8.5			0	"INDONESIA"	"BALI SEA"	-7	117	3.5	1			2																				2		3		
+	1820	12	29				4	1	7.5			0	"INDONESIA"	"FLORES SEA"	-7	119	25	7		4	3.5	500	3						2		3			500	3						2		3		
+	1821						-1	0				0	"INDONESIA"	"FLORES SEA: BIMA"	-8.456	118.723		0																											
+	1823	9	9				2	1	6.8			0	"INDONESIA"	"JAVA"	-6.5	108.5	0.3	1			-1.5																								
+	1828	12	29				-1	1				0	"INDONESIA"	"FLORES SEA"				0																											
+	1833	11	24				4	1	8.3			1	"INDONESIA"	"SW. SUMATRA"	-2.5	100.5		6			2.5		1						2		1		1		1						2		1		1
+	1836	3	5				2	1				0	"INDONESIA"	"FLORES SEA"	-8.3	118.7		1			0.5																								
+	1836	11	28				2	1	7.5			0	"INDONESIA"	"FLORES SEA"	-8.3	118.7		1			0.5																				1		2		
+	1837	9	29				2	1	7.3	4905		0	"INDONESIA"	"BANDA ACEH"	5.5	96		3			0.5																				2				
+	1840	1	4				2	1	7			0	"INDONESIA"	"JAVA"	-8	110.5		1			0																				3		3		
+	1840	2	14				2	1		629		0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	0.8	127.325		1			0.5								1												2	500	3		
+	1841	11	26				3	1				0	"INDONESIA"	"MOLUCCAS ISLANDS"	-5	130	3	1		1.5	1.5																								
+	1841	12	16				3	1	6			0	"INDONESIA"	"BANDA SEA"	-4	127.5	1.5	4		1	1.5								2		3										2		3		
+	1843	1	5				4	1	7.3			0	"INDONESIA"	"SW. SUMATRA"	1.5	98		3			2								3		3				3						3		3		
+	1843	2	7				1	1	6			0	"INDONESIA"	"BALI SEA"	-7.2	114		1			0																								
+	1845	2	8	7	30		3	1	7	489		1	"INDONESIA"	"CELEBES SEA"	1.5	124.85		1		0	0													118	3						2		3		
+	1846	1	25	0	0		4	1	7.3			0	"INDONESIA"	"TERNATE ISLAND, N. MOLUCCAS ISLANDS"	2	126.5	1.2	2			0.5																								
+	1851	5	4				3	0				0	"INDONESIA"	"LAMPUNG BAY"	-5	105	1.5	1		3.9	1.5																								
+	1852	1	9				3	1	6.5			0	"INDONESIA"	"JAVA"	-6.5	105.5		1			0.5																				1				1
+	1852	11	10				-1	1				0	"INDONESIA"	"BANDA SEA"				0																											
+	1852	11	11	0	0		1	1	6.8			0	"INDONESIA"	"SIBOLGA, SUMATRA"	1.5	98		3			0																								
+	1852	11	16				-1	1				0	"INDONESIA"	"BANDA SEA"				0																											
+	1852	11	19				1	1				0	"INDONESIA"	"AMBON ISLAND, BANDA SEA"	-3.7	128.2		1			0																								
+	1852	11	23				-1	1				0	"INDONESIA"	"BANDA SEA"				0																											
+	1852	11	25	22	40		4	1	8.3			0	"INDONESIA"	"BANDA SEA"	-5.25	129.75	8	22		3	2.5	60	2						2		2			60	2						3		3		
+	1852	12	24				1	1	7			0	"INDONESIA"	"BANDANEIRA"	-5	130.5		7			2		1						1						1						1		2		
+	1854	1	4				2	1	6			0	"INDONESIA"	"BANDA SEA"	-3.5	128.6		1			0																								
+	1854	9	27				3	1				0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	0.8	127.4		1			0.5																								
+	1855	4	14				3	0				0	"INDONESIA"	"FLORES ISLAND"	-9	121		1			1								1												1				
+	1856	3	2				4	6		581		1	"INDONESIA"	"SANGIHE ISLAND"	3.67	125.5		2		1	1		1											2806	4				2		3		3		
+	1856	7	25				2	1				0	"INDONESIA"	"JAVA-FLORES SEA"	-8.5	116		1			0																								
+	1857	5	13				4	1	7			0	"INDONESIA"	"BALI SEA"	-8	115.5	3.4	4		1.6	2													36	1						2		2		
+	1857	11	17				3	1				0	"INDONESIA"	"KEMA, SULAWESI I, N. MOLUCCAS IS"	1.35	125.2		2			1.5								2		3										2		3		
+	1857	11	18				2	1				0	"INDONESIA"	"KEMA, SULAWESI I, N. MOLUCCAS IS"	1.35	125.2		1			0																								
+	1858	12	13				2	1	7.3			0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1	126		9		2	1.5								3		3										3		3		
+	1859	6	28				4	1	7			0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1	126.5	10	4		3.2	3																								
+	1859	7	20				3	1				0	"INDONESIA"	"LONTOR ISLAND, BANDA SEA"	-4.6	129.9		1			0																								
+	1859	7	29				4	1	7.3			0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	0.009	125.5	1	5		1	1.5								2		2										2		2		
+	1859	9	25				2	1	6.8			0	"INDONESIA"	"BANDA SEA"	-5.5	130.5		2		1	0.5																								
+	1859	10	20				2	1				0	"INDONESIA"	"SOUTH OF JAVA"	-9	111		1			1	2	1						1					2	1						1				
+	1859	10	26				-1	0				0	"INDONESIA"	"N. MOLUCCAS ISLANDS"				0																											
+	1859	12	17				2	1				0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	0.9	124.9		1			0																								
+	1859	12	25				3	0				0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1.37	125.1		1			1																								
+	1860	8					1	1				0	"INDONESIA"	"SULAWESI-N. MOLUCCAS ISLANDS"	1.3	121		1			0																								
+	1860	10	6				3	1				0	"INDONESIA"	"CERAM SEA"	-1.25	128.5		1			0																								
+	1861	2	16				4	1	8.5			0	"INDONESIA"	"SW. SUMATRA"	-1	97.5	7	17			3	1105	4						2					1105	4						2				
+	1861	2	21				0	1				0	"INDONESIA"	"WANAIDJAS"				1																											
+	1861	3	9				4	1	7			0	"INDONESIA"	"SW. SUMATRA"	0.009	98		4			2	950	3						1	96	1			950	3						3	96	2		
+	1861	3					2	0				0	"INDONESIA"	"BANDA SEA"	-3.7	128.2	1.8	1			1								1												1				
+	1861	4	26				4	1	7			0	"INDONESIA"	"SW. SUMATRA"	1	97.5		1			1.5																								
+	1861	6	5				2	0				0	"INDONESIA"	"JAVA"	-6.3	107.3		2		1	1								1				2								1				2
+	1861	6	17				3	1	6.8			0	"INDONESIA"	"SW. SUMATRA"	1	97.5		1			0.5																								
+	1861	9	25				3	1	6.5			0	"INDONESIA"	"SW. SUMATRA"	-1.5	100		1			1.5								1		1										1		1		
+	1862	4	8				-1	0				0	"INDONESIA"	"CHERIBON DISTRICT, JAVA"	-6.7	108.57	2.1	1		1.1																									
+	1863	3	16				1	1				0	"INDONESIA"	"JAVA"	-6.1	106.7		1			0																								
+	1864	2	16				-1	1				0	"INDONESIA"	"SW. SUMATRA"				0																											
+	1864	5	23				3	1	7.8			0	"INDONESIA"	"NW. IRIAN JAYA"	-1	135	3	2		3.6	1.5	250	3						3		3			250	3						3		3		
+	1867	6	10				1	1				0	"INDONESIA"	"JAVA"	-7.8	110.4		0																5	1						3	372	3		
+	1871	3	3				4	6		533		1	"INDONESIA"	"RUANG"	2.28	125.425	25	5		4.6	3.5	400	3						2	75	2			400	3						2	75	2		
+	1871	8	25				1	1				0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	0.5	123		1			0																								
+	1874	5					-1	1				0	"INDONESIA"	"N. MOLUCCAS ISLANDS"				0																											
+	1876	5	28				3	1	6.8			0	"INDONESIA"	"CERAM SEA"	-3	127.25	0.3	1			-1																				1				3
+	1878	8					1	6				0	"INDONESIA"	"TAGRILAND ISLAND"				0																											
+	1882	10	10				3	1	7.5			0	"INDONESIA"	"BANDA SEA"	-4.5	129.9		1			0.5																								
+	1883	5	20				1	0				0	"INDONESIA"	"HORN ISLAND [AYER ISLAND], JAKARTA"	-6.004	106.781		0			1																								
+	1883	5	31				1	0				0	"INDONESIA"	"BANKA ISLAND"	-2.25	106		1			0																								
+	1883	8	27	2	59		4	6		2429		14	"INDONESIA"	"KRAKATAU"	-6.102	105.423	41	102		5.1	4	34417	4						4		4			36417	4						4		4		
+	1883	10	10				2	6		5264		0	"INDONESIA"	"JAVA-S. JAVA"	-6.102	105.423		1			0																								
+	1884	2					2	6		5285		0	"INDONESIA"	"KRAKATAU"	-6.102	105.423		0			0																								
+	1885	4	30				3	1	7.3			0	"INDONESIA"	"MOLUCCAS ISLANDS"	-2.5	127.5	1.2	2			0.5								1	3	1										1	3	1		
+	1885	7	29				2	1	6.8			0	"INDONESIA"	"AJERBANGIS, SUMATRA"	0	99.5		1			0																								
+	1885	8	3				3	0				0	"INDONESIA"	"SULAWESI ISLAND"	1.1	124.3		2			0																								
+	1885	12	14				1	1				0	"INDONESIA"	"BANDA ACEH"	5.55	95.3		1																											
+	1886	1	31				1	1				0	"INDONESIA"	"BANDA ACEH"	5.6	95.3		1																											
+	1887	5	19				1	1				0	"INDONESIA"	"SIGLI, ACEH, SUMATRA"	5.4	96		1																											
+	1888	3	21				1	1				0	"INDONESIA"	"BREUEH ISLAND"	5.8	95		1																											
+	1889	8	16				2	0				0	"INDONESIA"	"JAVA-S. JAVA"	-6.05	105.92		1			1																								
+	1889	9	6	12			4	1	8	569		1	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1	126.25	4	7		1	2.5								2		2										2		2		1
+	1889	9	8				-1					0	"INDONESIA"	"MOLUCCAS ISLANDS"				0																											
+	1889	11	23				2	1	6			0	"INDONESIA"	"JAVA"	-7	113.5		1			1																								
+	1891	5	19				1	1				0	"INDONESIA"	"SIGLI, ACEH, SUMATRA"	5.4	96		1																											
+	1891	6	10				3	0				0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	-0.5	127.5		1			0.5																								
+	1891	6	20				3	0				0	"INDONESIA"	"BANDA SEA"	-4	129		3			0																								
+	1891	10	5				3	1	7			0	"INDONESIA"	"TIMOR SEA"	-9	124		1			0.5																								
+	1892	1	7				-1	6				0	"INDONESIA"	"AURI, HALMAHERA"				0																											
+	1892	5	17	12	10		3	1				0	"INDONESIA"	"NORTHEAST SUMATRA"	2.5	99.5		6			1																				2		3		
+	1892	6	7				4	6		584		0	"INDONESIA"	"AWU VOLCANO, SANGIHE ISLAND"	3.67	125.5	0.75	5		1	1								1					1532	4						3		3		
+	1892	11	18				3	1	7			0	"INDONESIA"	"SERAM ISLAND"	-3	127.75		1			-1																								
+	1896	4	18				1	1				0	"INDONESIA"	"TIMOR ISLAND"	-8.25	124.75		0																250	3						2		3		
+	1896	10	10				2	1	6.8			0	"INDONESIA"	"SW. SUMATRA"	-3.5	102.5		1			0																				1				1
+	1897	3	15				2	1	5.5			0	"INDONESIA"	"FLORES SEA"	-6.8	120.8		1			1																								
+	1899	9	29	17	3		4	3	7.8			0	"INDONESIA"	"BANDA SEA"	-3	128.5	12	10		3.6	3	2460	4			300	3		3					2460	4			300	3		3				
+	1900	1	10				1	1				0	"INDONESIA"	"GALELA, HALMAHERA ISLAND"	1.82	127.85		1			0																								
+	1900	10	7	21	4		3	1	6.9			0	"INDONESIA"	"BISMARCK SEA"	-4	140		4		1	1.5	5	1						1	1	1			5	1						1	1	1		
+	1903	3	30				2	1	6.5			0	"INDONESIA"	"BANDA SEA"	-3	127.5	1	2		-0.5	0																								
+	1904	2	2				2	0				0	"INDONESIA"	"CELEBES SEA"	1.5	120.8		1			0.5																								
+	1904	7	5				1	1				0	"INDONESIA"	"BANDA SEA"	-3.6	128.7		1			1								1												1				
+	1904	9	7				1	1				0	"INDONESIA"	"S. JAVA"	-7.7	109		1			0																								
+	1907	1	4	5	19	13.2	4	1	8.2			0	"INDONESIA"	"NW. SUMATRA"	2.681	95.53	15	88		1.5	2	2188	4						3		3			2188	4						3		3		
+	1907	3	29	20	46	30	1	1	7.3			0	"INDONESIA"	"KARAKELONG, TALAUD ISLANDS"	3	122	4	1		2	2																								
+	1908	2	6				3	1	7.5			0	"INDONESIA"	"SW. SUMATRA"	-2	100	1.4	1		0.5	1																								
+	1908	3	23	12	20		-1	1	6.6			0	"INDONESIA"	"TIMOR SEA"	-10	129		1																							1				
+	1909	6	3	18	40	48	2	1	7.6			0	"INDONESIA"	"SUMATRA"	-2	101		4		0.5	1														3						3		3		
+	1910	12	18	2	42		2	1	6.7			0	"INDONESIA"	"SULAWESI"	4	127		1		-1.3	-1																				1				1
+	1913	3	14	8	45	4.3	-1	4	7.8	585		0	"INDONESIA"	"SANGIHE ISLAND"	5.354	126.121		1																138	3						2		3		
+	1914	3	14				-1	0				0	"INDONESIA"	"INDONESIA"				0																											
+	1914	5	26	14	22	47.7	4	1	8.1			0	"INDONESIA"	"NW. IRIAN JAYA"	-1.829	136.943	0.1	5		1.5	2		1												3						2		3		
+	1914	6	25	19	7	25.9	2	1	7.6			0	"INDONESIA"	"INDONESIA"	-3.924	101.82		1																20	1			20	1		1		1		
+	1914	12	3				2	0				0	"INDONESIA"	"AMBON ISLAND"	-3.7	128.2		0			0																								
+	1915	5	23				1	1				0	"INDONESIA"	"KAIMANA"	-3.644	133.695	0.5	1			0																								
+	1915	11	6				2	1	6			0	"INDONESIA"	"NW. IRIAN JAYA"	-1	136		1			0																								
+	1917	1	9				1	0				0	"INDONESIA"	"CELEBES SEA"	1.57	122.72		1			2																								
+	1917	1	20	23	11	34	3	1	6.6			0	"INDONESIA"	"BALI SEA"	-7	116	2	2		1														1500	4						2		2		
+	1917	1					1	0				0	"INDONESIA"	"LINGA ARCHIPELAGO"	-0.25	104.5		0			1.5																								
+	1917	3	16				2	0				0	"INDONESIA"	"JAVA SEA"	-3.7	116.6	1.5	2			1								2												2				
+	1917	8	23				2	0				0	"INDONESIA"	"BANDA SEA"	-3.6	128.7		1			0.5																								
+	1918	7	18	2	30		1	6		4784		0	"INDONESIA"	"SULAWESI"	3.138	125.491	0.08	2			0																								
+	1919	2	13				2	0				0	"INDONESIA"	"TIMOR SEA"	-9	124.85		1			1.5								1												1				
+	1919	4	3				1	6		4864		0	"INDONESIA"	"SULAWESI"	3.138	125.491	5	0																							1		1		
+	1919	11	21				1	1				0	"INDONESIA"	"NW. IRIAN JAYA"	-2.55	140.75		1																							1		1		
+	1920	1	29				1	1				0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	0.87	122.92	2	2		1	1																								
+	1921	5	14	11	17	45	2	1	6.2			0	"INDONESIA"	"MAKASSAR STRAIT"	0.7	117.9	1	1			0.5								2												2		1		1
+	1921	9	11	4	1	38	4	1	7.5			0	"INDONESIA"	"JAVA"	-11	111	0.1	3		-2.3	-2																								
+	1922	2	22				1	1				0	"INDONESIA"	"BANDA SEA"	-3.3	128.9		1			0.5																								
+	1922	4	10				1	1				0	"INDONESIA"	"SW. SUMATRA"	-1	100.35		1			0																								
+	1922	7	8				1	1				0	"INDONESIA"	"LHOKNGA, ACEH"	5.5	95.2		1			0																								
+	1925	1	8				1	1				0	"INDONESIA"	"BANDA SEA"	-8	115	1	1			0																								
+	1926	6	28	3	23	27.5	0	1	6.6			0	"INDONESIA"	"SW. SUMATRA"	0.059	101.419		1			0						3		2						4				3		2		3		
+	1927	12	1	4	37	27	3	1	6.3			0	"INDONESIA"	"SULAWESI"	-0.7	119.7	15	2		3.9	3	50	1			50	1		2		2			50	1			50	1		3		3		
+	1928	3	26				3	6		2431		1	"INDONESIA"	"KRAKATAU"	-6.102	105.423	4	0			0																								
+	1928	8	4				4	7		394		1	"INDONESIA"	"FLORES SEA"	-8.32	121.708	10	2		3.3	3	128	3						1					226	3			200	3		2		2		
+	1929	11	9				2	0				0	"INDONESIA"	"TJALANG, N.W. SUMATRA"	4.633	95.567		1				6	1											6	1										
+	1930	3	17				1	6		2433		0	"INDONESIA"	"KRAKATAU"	-6.102	105.423	500	0																											
+	1930	6	19	13	7	27	3	1	6			0	"INDONESIA"	"SOUTH OF JAVA"	-5.6	105.3	1.5	1		-0.5																									
+	1930	7	19	15	20	12	2	1	6.5			0	"INDONESIA"	"SOUTH OF JAVA"	-9.3	114.3	0.1	1		-3.3																									
+	1930	9	11				1	1				0	"INDONESIA"	"CELEBES SEA"	1.2	124.57		1			0																								
+	1931	9	25	5	59	44	3	1	7.4			0	"INDONESIA"	"SW. SUMATRA"	-5	102.75	1	1		4.9																					1				
+	1932	9	9	13	38	52	2	1	6.2			0	"INDONESIA"	"BANDA SEA"	-3.57	128.35		2			0																				3	73	2		3
+	1935	11	25	10	3	3	2	1	6.5			0	"INDONESIA"	"CELEBES SEA"	5.5	94		0																											
+	1935	12	28	2	35	0	1	1	7.9			0	"INDONESIA"	"SW. SUMATRA"	0.001	98.25		0																					1		2		2		
+	1936	4	1	2	9	15	4	1	7.7			0	"INDONESIA"	"SULAWESI"	4.5	126.5	3	2		1.5	2																	3	1		2	169	3		
+	1936	8	23	21	12	13	2	1	7.3			0	"INDONESIA"	"OFF NORTHWEST COAST"	6.1	94.7		0																9	1			20	1		2				
+	1937	11	6				2	1	6			0	"INDONESIA"	"BANDA SEA"	-3	132.3	0.5	1		-1																									
+	1938	2	1	19	4	22	4	1	8.6			0	"INDONESIA"	"BANDA SEA"	-5.045	131.614	1	5		1	1.5								2	24	1	8	1								2	24	1	8	1
+	1938	2	13				2	1	6			0	"INDONESIA"	"BANDA SEA"	-3	132.3	0.5	1			-0.5																				1				
+	1938	5	19	17	8	21	4	1	7.6			0	"INDONESIA"	"MAKASSAR STRAIT"	-1	120	3	7		1.6		17	1						1		2			17	1						3	942	3		
+	1939	12	21	21	0	40	3	1	8			0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	0	123		2											1												2		3		
+	1948	6	1	18	58	18	3	1	6.3			0	"INDONESIA"	"OFF NORTHWEST COAST"	6	95		1		-0.5	0																								
+	1949	5	9	13	36	18	2	1	6.7			0	"INDONESIA"	"BANDA ACEH"	5	95		0																											
+	1950	10	8	3	23	9	3	1	7.6			0	"INDONESIA"	"BANDA SEA"	-3.8	128.3		2		1.5	2	1	1						3		3		3	1	1						3		3		3
+	1957	6	22	23	50	23	3	1	7.3			0	"INDONESIA"	"NW. IRIAN JAYA"	-1.5	137	1.8	2		0.8																									
+	1957	9	26				3	1	5.5			0	"INDONESIA"	"SOUTH OF JAVA"	-8.2	107.3	0.7	0		-0.5																									
+	1957	10	26	14	16	57	2	1	6			0	"INDONESIA"	"MAKASSAR STRAIT"	-2	116		1			0																								
+	1958	4	21	22	37	46	2	1	6.5			0	"INDONESIA"	"BENGKULU, SUMATRA"	-4.5	104		0			0.5																								
+	1963	3	30				2	6		351		0	"INDONESIA"	"LESSER SUNDA: BALI: AGUNG VOLCANO"	-8.342	115.508		2			2													1028	4			624	3						
+	1963	12	16	1	51	31	2	1	6.6			0	"INDONESIA"	"JAVA"	-6.4	105.4		1		-0.5	0																				1				1
+	1964	4	2	1	11	51	3	3	7			0	"INDONESIA"	"OFF NORTHWEST COAST OF INDONESIA"	5.8	95.4		1		-0.5	0																				3		3		
+	1965	1	24	0	11	12.1	4	1	7.6			0	"INDONESIA"	"SANANA ISLAND"	-2.4	126.1		4		2	2	71	2						4	3000	4			71	2						2	3000	4		
+	1967	4	11	5	9	12.1	3	1	5.5			0	"INDONESIA"	"MAKASSAR STRAIT"	-3.7	119.3		2		1.6	1	13	1						1		1			71	2			100	2		2		2		
+	1967	4	12	4	51	50.2	3	1	6.1			0	"INDONESIA"	"NORTHEAST SUMATRA"	5.5	97.3		1		1	1.5													14	1						3	2000	4		
+	1968	8	10	2	7	4.3	4	1	7.6			0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1.4	126.2	0.4	22		-1.3	1																				1				
+	1968	8	14	22	14	19.4	4	1	7.8			0	"INDONESIA"	"BANDA SEA"	0.2	119.8	10	7		3.3	2.5	200	3			58	2		3	800	3			200	3			58	2		3	800	3		
+	1969	2	23	0	36	58.9	4	1	7			0	"INDONESIA"	"MAKASSAR STRAIT"	-3.201	118.904	4	5		2	2	600	3						3		3			664	3			97	2		3	1287	4		
+	1973	12					1	6		445		0	"INDONESIA"	"LESSER SUNDA ISLANDS"	-8.54	123.59		0				2	1											2	1										
+	1975	1	15	9	42	24	1	1	5.9			0	"INDONESIA"	"BANDA SEA"	-5	130		1																							1	81	2		
+	1975	3	5	0	22	19	3	1	6.6			0	"INDONESIA"	"SANANA ISLAND"	-2.444	126.145	1.2	1		1																					1				
+	1977	8	19	6	8	55	4	1	8.3			0	"INDONESIA"	"SUNDA ISLANDS"	-11.164	118.378	15	16		3.9	3	189	3			75	2	1.2	2					189	3			75	2	1.2	2				
+	1979	7	18				4	8		4603		1	"INDONESIA"	"LOMBLEN ISLAND [LEMBATA]"	-8.6	123.5	9	1				1239	4			32	1		3		3			1239	4			32	1		3		3		
+	1979	8	9				-1	8				0	"INDONESIA"	"LOMBLEN ISLAND [LEMBATA]"	-8.5	123.5		1																											
+	1979	9	12	5	17	51.4	4	1	7.9			0	"INDONESIA"	"IRIAN JAYA"	-1.679	136.04	2	2		1		100	2						2	400	2			115	3				3		3	1000	3		
+	1981	10	20				3	7		7525		0	"INDONESIA"	"KRAKATAU"	-6.102	105.423	2	1																											
+	1982	2	24	4	22	40.3	2	1	5.4			0	"INDONESIA"	"JAVA TRENCH"	4.374	97.755		0																											
+	1982	3	11	10	32	27.1	1	1	6.6			0	"INDONESIA"	"SUMBAWA ISLAND"	-9.265	118.479	0.1	0																											
+	1982	12	25	12	28	2.8	-1	3	6			0	"INDONESIA"	"FLORES SEA"	-8.405	123.08		0																13	1			390	3	1.45	2	1875	4		
+	1983	3	12	1	36	35.8	4	1	6.9			0	"INDONESIA"	"BANDA SEA"	-4.056	127.924	3	1		1.6	1.5																								
+	1983	8	17				1	6		447		0	"INDONESIA"	"LESSER SUNDA ISLANDS"	-8.54	123.59		0																											
+	1984	1	8	15	24	13.5	1	1	6.8			0	"INDONESIA"	"SULAWESI"	-2.823	118.806		0																2	1			89	2	0.5	1			685	3
+	1985	4	13	1	6	0.1	2	1	6.2			0	"INDONESIA"	"BALI ISLAND"	-9.245	114.185	2	1																											
+	1987	11	26	1	43	14	-1	1	6.6			0	"INDONESIA"	"TIMOR SEA"	-8.247	124.155	0.1	0																											
+	1992	12	12	5	29	26.3	4	3	7.8			9	"INDONESIA"	"FLORES SEA"	-8.48	121.896	26.2	111		4.7	2.7	1169	4			500	3	100	4	31785	4			2500	4			2103	4	100	4	31785	4		
+	1994	1	21	2	24	29.9	4	1	7			0	"INDONESIA"	"HALMAHERA"	1.015	127.733	2	3		1	1.5													9	1			300	3		2			550	3
+	1994	2	15	17	7	43.8	-1	1	6.9			0	"INDONESIA"	"SOUTHERN SUMATRA"	-4.967	104.302		0																											
+	1994	6	2	18	17	34	4	1	7.8			5	"INDONESIA"	"SOUTH OF JAVA"	-10.477	112.835	13.9	74		3.7	2.5	238	3			423	3	2.2	2	1500	4			238	3			423	3	2.2	2	1500	4		
+	1994	6	3	21	6	59.8	4	1	6.6			0	"INDONESIA"	"SOUTH OF JAVA"	-10.362	112.892	3.7	1																											
+	1994	6	4	0	57	50.6	2	1	6.5			0	"INDONESIA"	"SOUTH OF JAVA"	-10.777	113.366		0																											
+	1994	6	5	1	45	2.7	4	1	6.1			0	"INDONESIA"	"SOUTH OF JAVA"	-10.341	113.369	3	1																											
+	1994	10	8	21	44	7.2	4	1	6.8			0	"INDONESIA"	"HALMAHERA"	-1.258	127.98	3	1		1.6	1.5	1	1			52	2		2			500	3	1	1			52	2		2			500	3
+	1995	5	14	11	33	21.1	4	3	6.9			0	"INDONESIA"	"TIMOR SEA"	-8.452	125.049	4	2		2	1.5	11	1			19	1		1		2			11	1			19	1		1		2		
+	1996	1	1	8	5	10.8	4	1	7.9			0	"INDONESIA"	"SULAWESI"	0.729	119.931	3.43	16		2.3	1.8	9	1			63	2	1.2	2	400	3			9	1			63	2	1.2	2	400	3		
+	1996	2	17	5	59	30.5	4	1	8.2			1	"INDONESIA"	"IRIAN JAYA"	-0.891	136.952	7.7	116		2.9	1.8	110	3			100	2	4.2	2		4			164	3			432	2	4.2	2	5043	4		
+	1998	11	29	14	10	31.9	2	1	7.7			0	"INDONESIA"	"TALIABU ISLAND"	-2.071	124.891	2.75	1			1								1		2			41	1			107	3	200	4	1000	3		
+	2000	5	4	4	21	16.2	4	1	7.6			0	"INDONESIA"	"SULAWESI"	-1.105	123.573	6	2				54	2			264			3		4			54	2			264	3	30	4	23000	4		
+	2002	10	10	10	50	20.5	1	1	7.6			0	"INDONESIA"	"IRIAN JAYA"	-1.757	134.297	5	3		2.32	2.82													8	1			632	3		3	1000	3	900	3
+	2004	1	28	22	15	30.7	4	1	6.7			0	"INDONESIA"	"SERAM ISLAND"	-3.12	127.4		1																											
+	2004	11	11	21	26	41.1	4	1	7.5			0	"INDONESIA"	"KEPULAUAN ALOR"	-8.152	124.868	2	3											1			1	1	34	1			400	3		3	781	3	16712	4
+	2004	12	26	0	58	53.5	4	1	9.1			146	"INDONESIA"	"OFF W. COAST OF SUMATRA"	3.295	95.982	50.9	2176				227899	4				3	10000	4		4		4	227899	4				3	10000	4		4		4
+	2005	3	28	16	9	36.5	4	1	8.6			1	"INDONESIA"	"INDONESIA"	2.085	97.108	4.2	76				16	1						1					1319	4			340	3		4	300	3		
+	2005	4	10	10	29	11.2	4	1	6.7			0	"INDONESIA"	"KEPULAUAN MENTAWAI"	-1.644	99.607	0.4	1																											
+	2006	3	14	6	57	33.8	4	1	6.7			0	"INDONESIA"	"SERAM ISLAND"	-3.595	127.214	3.5	1				4	1						2	241	3			4	1					1	2	241	3		
+	2006	7	17	8	19	26	4	1	7.7			4	"INDONESIA"	"SOUTH OF JAVA"	-9.284	107.419	20.9	211	8.1			802	3			498	3	55	4	1623	4			802	3			498	3	55	4	1623	4		
+	2007	9	12	11	10	26.8	4	1	8.4			0	"INDONESIA"	"SUMATRA"	-4.438	101.367	5	56											1				2	25	1			161	3		3	56425	4		
+	2008	2	25	8	36	33	4	1	6.5			0	"INDONESIA"	"SUMATRA"	-2.486	99.972	0.12	1																							1				2
+	2008	11	16	17	2	32.7	4	1	7.3			0	"INDONESIA"	"SULAWESI"	1.271	122.091	0.13	3																6	1			77	2		3			1000	3
+	2009	1	3	19	43	50.6	4	1	7.6			0	"INDONESIA"	"NEAR NORTH COAST"	-0.414	132.885	0.39	24																5	1			250	3		3			840	3
+	2009	1	3	22	33	40.2	3	1	7.3			0	"INDONESIA"	"NEAR NORTH COAST"	-0.691	133.305		0																											
+	2009	2	11	17	34	50.8	4	1	7.2			0	"INDONESIA"	"CELEBES SEA"	3.884	126.397	0.13	1																				64	2		2			597	3
+	2009	8	16	7	38	21.7	4	1	6.7			0	"INDONESIA"	"SUMATRA"	-1.479	99.49	0.18	1																				9	1						
+	2009	9	2	7	55	1	4	1	7			0	"INDONESIA"	"JAVA SEA"	-7.782	107.297	0.4	2																81	2			1297	4		3			54000	4
+	2009	9	30	10	16	9.2	4	1	7.5			0	"INDONESIA"	"SUMATRA"	-0.72	99.867	0.27	1																1117	4			1214	4	2200	4		3	181665	4
+	2010	4	6	22	15	1.5	4	1	7.8			0	"INDONESIA"	"SUMATRA"	2.383	97.048	0.44	6																											
+	2010	10	25	14	42	22	4	1	7.8			0	"INDONESIA"	"SUMATRA"	-3.487	100.082	16.9	358				431	3					39	4	700	3			431	3					39	4	700	3		
+	2012	4	11	8	38	36.7	4	1	8.6			0	"INDONESIA"	"OFF W. COAST OF N SUMATRA"	2.327	93.063	1.08	25																10	1			12	1		1				2
+	2012	4	11	10	43	10.8	4	1	8.2			0	"INDONESIA"	"OFF W. COAST OF N SUMATRA"	0.802	92.463		4																											
+	2014	11	15	2	31	41.7	3	1	7.1			0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1.893	126.522	0.09	3																											
+	2016	3	2	12	49	48.1	4	1	7.8			0	"INDONESIA"	"SW. SUMATRA"	-4.952	94.33	0.21	13																											
+	2018	7	28	22	47	38.7	3	1	6.4			0	"INDONESIA"	"BALI SEA"	-8.24	116.508	2.5	2											1		1			17	1			355	3		3	5448	4		3
+	2018	8	5	11	46	38.6	4	1	6.9			0	"INDONESIA"	"BALI SEA"	-8.258	116.438	2	6																560	3			7733	4	509	4		3	83392	4
+	2018	8	19	4	11	4	3	1	6.3			0	"INDONESIA"	"BALI SEA"	-8.337	116.599		0																2	1			1	1		2			1705	4
+	2018	9	28	10	2	45.3	4	3	7.5			3	"INDONESIA"	"SULAWESI"	-0.256	119.846	10.73	291				4340	4	667	3	10679	4	1500	4	3673	4	39191	4	4340	4	667	3	10679	4	1500	4	3673	4	39191	4
+	2018	12	22	13	55		4	7		7264		2	"INDONESIA"	"KRAKATAU"	-6.102	105.423	85	410				437	3	10	1	31943	4	250	4		3	2844	4	437	3	10	1	31943	4	250	4		3	2844	4
+	2019	8	2	12	3	27	2	1	6.9			0	"INDONESIA"	"W. JAVA"	-7.282	104.791		6																8	1			8	1		2	13	1	458	3
+	2019	11	14	16	17	40	4	1	7.1			0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1.6	126.416	0.11	8																1	1			3	1		1			36	1
+	2020	5	29	5	30		2	4		7504		0	"INDONESIA"	"LESSER SUNDA: BALI: IJEN VOLCANO"	-8.058	114.242	3	1																1	1										
+	2021	6	16	4	43	7	4	3	5.8			0	"INDONESIA"	"BANDA SEA"	-3.593	129.503	0.51	3																							1				1
+	2021	12	14	3	20	24	4	1	7.3			0	"INDONESIA"	"FLORES SEA"	-7.603	122.2	0.07	2																				1	1		2	41		200	3
+	2022	11	18	13	37	8	4	1	6.9			0	"INDONESIA"	"SW. SUMATRA"	-4.904	100.786	0.25	4																											
+	2023	1	9	17	47	35	4	1	7.6			0	"INDONESIA"	"SOUTH MALUKU"	-7.049	130.038	0.09	2																1	1			11	1		2	37	1	327	3
+	2023	4	24	20	0	57	4	1	7.1			0	"INDONESIA"	"SW. SUMATRA"	-0.799	98.524	0.11	1																							1				

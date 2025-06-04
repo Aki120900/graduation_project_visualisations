@@ -1,0 +1,201 @@
+"Search Parameters"	"Year"	"Mo"	"Dy"	"Hr"	"Mn"	"Sec"	"Tsu"	"Vol"	"Location Name"	"Latitude"	"Longitude"	"Focal Depth (km)"	"Mag"	"MMI Int"	"Deaths"	"Death Description"	"Missing"	"Missing Description"	"Injuries"	"Injuries Description"	"Damage ($Mil)"	"Damage Description"	"Houses Destroyed"	"Houses Destroyed Description"	"Houses Damaged"	"Houses Damaged Description"	"Total Deaths"	"Total Death Description"	"Total Missing"	"Total Missing Description"	"Total Injuries"	"Total Injuries Description"	"Total Damage ($Mil)"	"Total Damage Description"	"Total Houses Destroyed"	"Total Houses Destroyed Description"	"Total Houses Damaged"	"Total Houses Damaged Description"
+"[""Country = CHILE""]"																																						
+	1520								"CHILE"	-40	-74			10																								
+	1543								"CHILE"	-19	-70.5			10		1												1										
+	1562	10	28	10			178		"CHILE"	-38.7	-73.5		8	11								3						3						3				
+	1570	2	8	13			179		"CHILE:  OLD CONCEPCION"	-36.75	-73		8.3	11								2		3			2000	4						3		3		
+	1575	12	16	18	30		185		"CHILE:  VALDIVIA"	-39.8	-73.2		8.5	10	21	1						3					1321	4						3		2		
+	1604	12							"CHILE"	-29.9	-71.3			10																								
+	1615	9	16				230		"CHILE:  ARICA"	-18.5	-70.35		7.5	10								2				2								2				2
+	1633	5	14				246		"CHILE:  FORT CARELMAPU"	-41.8	-73.8											2		2				1						2		2		
+	1639	12							"CHILE"	-30	-71.4			10																								
+	1647	5	14	2	30				"CHILE:  SANTIAGO"	-33.4	-70.6		8.5	11	1000	3						4	300	3			1000	3						4	300	3		
+	1657	3	15	23	30		281		"CHILE:  CONCEPCION, CHILLAN"	-36.83	-73.03		8	11		1						3		3			40	1						3		3		
+	1657	7	9				282		"CHILE:  SANTIAGO"	-33.5	-70.7											1												1				
+	1681	3	10				329		"CHILE"	-18.5	-70.35		7.5	10																								
+	1687	7	12				335		"CHILE:  SANTIAGO"	-32.8	-70.7		7.5	8		1						1		1				1						1		1		
+	1705	11	26				373		"CHILE:  CHILE:  ARICA"	-18.6	-70.2																							2				
+	1730	7	8	8	45		400		"CHILE:  VALPARAISO"	-32.5	-71.5		9.1	11	2	1						3		3			5	1						3		3		
+	1737	12	24				415		"CHILE: VALDIVIA, CHILOE"	-43	-74		8	11		2						2		2				2						2		2		
+	1742	3	23				420		"CHILE:  CONCEPCION"	-36.8	-73																											
+	1751	5	25	5	30		440		"CHILE:  CONCEPCION, CHILLAN, TALCA, TUTUBEN, CURICO"	-36.83	-71.63		8.5	11								3		3			65	2						3		3		
+	1765						5489		"CHILE:  VALPARAISO"	-33.05	-71.617																											
+	1796	3	30	10	45				"CHILE:  COPIAPO, VALLENAR, HUASCO, COQUIMBO"	-27.35	-70.35		7.7	11		1						2		3				1						2		3		
+	1798	8	24						"CHILE:  COPIAPO"	-27.35	-70.35											2		2										2		2		
+	1811	11	19	14	15		604		"CHILE:  VALPARAISO"	-33.08	-71.67																											
+	1819	4	3	14	0				"CHILE:  COPIAPO"	-27.4	-70.3		8									2		2										2		2		
+	1819	4	4	20	0				"CHILE:  COPIAPO"	-27.4	-70.3		8			3						3		3				3						3		3		
+	1819	4	12	3	0		626		"CHILE:  COPIAPO"	-27	-71.5		8.5	10		1						3		3				1						3		3		
+	1822	11	20	2	30		641		"CHILE:  VALPARAISO, QUILLOTA, CONCON,  ACONCAGUA"	-33	-72		8.5	11	72	3			200	3		4		3		3	72	3			200	3		4		3		3
+	1822	11	25	12	15				"CHILE"	-33.05	-71.63			10								1												1				
+	1829	9	26	19	12		673		"CHILE:  VALPARAISO"	-33.05	-71.63		7	11		1						1						1						1				
+	1831	10	9	2	15				"CHILE: PERU:  TACNA,ARICA,AREQUIPA"	-18.5	-71		7.8	7		2						1																
+	1833	4	25	14	30	0			"CHILE"	-28.5	-71.3			10																								
+	1835	2	20	16	22		689		"CHILE:  CONCEPCION"	-36.83	-73.03		8.2	11	50	1	30	1	500	3		4		3			53	2	30	1	500	3		4		3		3
+	1836	7	3				697		"CHILE:  COBIJA"	-22.6	-70.3		7.5																									
+	1837	11	7	12	51		708		"CHILE:  VALDIVIA"	-42.5	-74		8.5	10								3		3			16	1						3		3		
+	1838	5	7				710		"CHILE:  CENTRAL"	-36.7	-73.1																											
+	1843	12	17	22	15	0			"CHILE"	-29.9	-71.3			10																								
+	1845	6	4	2	15	0			"CHILE"	-18.5	-70.4			10																								
+	1846	3	13	11	0				"CHILE:  COIAPO"	-27.35	-70.35			8								2		3										2		3		
+	1847	3	8	15	0				"CHILE"	-32.45	-71.27			10		1												1										
+	1847	10	8						"CHILE:  COQUIMBO"	-31.61	-71.18		7.3	8		1						1		1				1						1		1		
+	1847	10	19				756		"CHILE:  COQUIMBO"	-31.61	-71.18																											
+	1849	11	17	10	10		772		"CHILE:  COQUIMBO"	-29.95	-71.37		7.5	8		1						1				1		1						1				1
+	1851	4	2	10	48		777		"CHILE:  VALPARAISO"	-33.32	-71.42		7.1	8		1						3		3				1						3		3		
+	1851	5	26	18	14		783		"CHILE:  COPIAPO"	-27.35	-70.35		7.2	10								3		3										2		3		
+	1855	8	11	9	15		847		"CHILE:  VALPARAISO"	-33	-71.7																											
+	1858	4	24	11	15		875		"CHILE:  LA SERENA"	-30	-71.4		6.5	8		1												1										
+	1859	10	5	12	0		888		"CHILE"	-27.35	-70.35		7.6	10	10	1					0.93	1	339	3			10	1						2	339	3		
+	1868	8	13	21	30		983		"CHILE:  ARICA"	-18.6	-71	25	8.5	11	25000	4						4					25000	4					300	4				
+	1868	8	14	1	30		5484		"CHILE:  ARICA"	-18.6	-71		8.5																									
+	1868	9	14				989		"CHILE:  CENTRAL"	-36.7	-73.2																											
+	1868	10	16				992		"CHILE:  CENTRAL"	-33.1	-71.7																											
+	1869	1	27				995		"CHILE:  SANTIAGO, VALPARAISO"	-36.6	-73																											
+	1869	2	6				996		"CHILE: VALDIVIA, CORRAl"	-39.9	-73.4																											
+	1869	6	25				3040		"CHILE:  IQUIQUE, PISAGUA"	-19.6	-70.2																											
+	1869	8	9				1004		"CHILE:  COQUIMBO"	-30	-71.4																											
+	1869	8	21	16	40		5408		"CHILE:  IQUIQUE"	-21	-70		6.8																									
+	1869	8	24	17	10		1010		"CHILE:  IQUIQUE, PICA; PERU:  TACNA"	-19.6	-70.23	30	7.5	8								1												1				
+	1870	4	22	13	20	0			"CHILE"	-22.5	-68.9			10																								
+	1871	3	25				1023		"CHILE:  CENTRAL"	-35	-72.5		7.5									3		3										3		3		
+	1871	8	20				1024		"CHILE:  VALPARAISO"	-33.1	-71.7																											
+	1871	10	5	9			1029		"CHILE"	-20.2	-70.2		7.3	10		1						3	101	3				1						3	101	3		
+	1871	12	28				1031		"CHILE:  PUERTO MONTT"	-41.5	-73																											
+	1873	7	7	6	26		1052		"CHILE:  LIGUA, QUILLOLTA"	-32.3	-71.16					1						3		3				1						3		3		
+	1873	11	19				1053		"CHILE:  ANTOFAGASTA"	-23.6	-70.4																											
+	1877	5	10	0	59		1075		"CHILE:  OFF NORTH COAST"	-21.5	-70.5	40	8.3	11	103	2					1.6	2		3			2385	4						3		3		
+	1877	5	15				1079		"CHILE:  NORTHERN:  HUANILLOS"	-21.2	-70.1																											
+	1877	6	15				1080		"CHILE:  NORTHERN"	-19.6	-70.2																											
+	1877	8	23				1081		"CHILE:  IQUIQUE"	-20.2	-70.1																											
+	1877	10	9				1083		"CHILE"	-24	-71																											
+	1878	1	23	12	5		1090		"CHILE:  TARAPACA"	-19.92	-70.335	40	7.9	8		1						3		3				1						3		3		
+	1878	2	14				1097		"CHILE:  CENTRAL"	-36.8	-73																											
+	1878	3	12				1099		"CHILE:  NORTHERN"	-20.2	-70.1																											
+	1878	4	12				1100		"CHILE:  NORTHERN"	-20.2	-70.1																											
+	1878	6	12				1105		"CHILE:  NORTHERN"	-23.7	-70.4																											
+	1880	8	15	12	48		1118		"CHILE:  ILLAPEL"	-31.62	-71.18		7.7	10	2	1						3	600	3			2	1						3	600	3		
+	1881	7	14				1123		"CHILE:  NORTHERN"	-20.2	-70.1																											
+	1881	10	27				1126		"CHILE:  NORTHERN"	-19.6	-70.2																											
+	1882	2	23				1131		"CHILE:  NORTHERN"	-33.58	-71.63																											
+	1882	9	14				1134		"CHILE:  PISAGUA"	-19.6	-70.2																											
+	1885	11	12				1156		"CHILE:  IQUIQUE"	-20.2	-70.1																											
+	1892	3	27				5615		"CHILE:  ARICA"	-18.5	-70.35											1												1				
+	1895	5	31				5628		"CHILE:  NORTHERN"	-18	-71											1												1				
+	1896	3	13						"CHILE:  LIMACHE, ALMENDRAL"	-33	-71			8								1												1				
+	1898	7	23	2	17		1250		"CHILE:  CONCEPCION"	-36.83	-73.03		6.5	8	6	1						2		2			6	1				1		2		2		
+	1903	9	26				1299		"CHILE:  IQUIQUE"	-20.2	-70.15																											
+	1903	12	7	14	25		1307		"CHILE:  VALLENAR, FREIRINA"	-28.5	-71		6.5	8		1						2		2				1						2		2		
+	1906	5	7				1334		"CHILE:  ARICA; PERU: TACNA"	-18.5	-70.3	33																										
+	1906	8	17	0	40		1339		"CHILE:  SOUTH CENTRAL"	-33	-72	25	8.2	11	4000	4					100	4					4000	4					100	4				
+	1909	6	8	5	46	30	1379		"CHILE"	-26.5	-70.5		7.6																									
+	1911	9	15	13	10		1398		"CHILE:  NORTHERN"	-20	-72		7.3																									
+	1914	1	30	3	35	50			"CHILE:  OFF CENTRAL COAST"	-35	-73	33	7.6																									
+	1918	5	20	17	55	10	1453		"CHILE:  NORTHERN"	-28.5	-71.5	80	7.9																									
+	1918	12	4	11	47	48	1461		"CHILE:  COPIAPO"	-26	-71		7.8			1						3		3				1						3		3		
+	1920	8	20	16	15	38	1485		"CHILE:  OFF COAST CENTRAL"	-38	-73.5	15	7									2		2		2								2		2		2
+	1922	11	7	23	0	9	1504		"CHILE:  NORTHERN"	-28	-72	33																										
+	1922	11	11	4	32	51	1505		"CHILE:  ATACAMA"	-28.293	-69.852	70	8.5	11	500	3						3		3			700	3						3		3		
+	1923	5	4	22	26	45	1518		"CHILE:  VALLENAR"	-28.75	-71.75	60	7									2		2		2								2		2		2
+	1923	8	12	12	11		1524		"CHILE:  NORTHERN"	-18.5	-70.3	33																										
+	1925	5	15	11	56	57	1555		"CHILE:  NORTHERN"	-26	-71.5	50	7.1																									
+	1926	12	9	22	38	48	1573		"CHILE:  VALLENAR"	-28	-71	33	6																									
+	1927	11	21	23	12	25	1586		"CHILE:  SOUTHERN"	-44.6	-73	33	7.1																									
+	1928	11	20	20	35	7	1608		"CHILE:  NORTHERN"	-22.5	-70.5	33	7.1																									
+	1928	12	1	4	6	12	1609		"CHILE:  TALCA, CHILLAN, SANTIAGO, SAN FERNANDO"	-35	-72	25	7.6	9	279	3						3		3			279	3						3		3		
+	1929	10	19	10	12	0			"CHILE"	-23	-69	100	7.5																									
+	1930	12	29	8	26	24	1634		"CHILE:  NORTHERN"	-28.5	-71		6																									
+	1931	3	18	8	2	23	1640		"CHILE:  CENTRAL"	-32.5	-72	33	7.1																									
+	1933	2	23	8	9	12	1659		"CHILE"	-20	-71	40	7.6																									
+	1933	11	3	4	14	0			"CHILE"	-22	-70.5	70	5.5	10																								
+	1934	12	4	17	24	38	1676		"CHILE:  IQUIQUE, PISAGUA, SAPIGA, NEGRERO"	-19.5	-69.5	130	6.9							2		2		3								2		2		3		
+	1936	7	13	11	12	15	1691		"CHILE:  TALTAL"	-24.5	-70	60	7.3		1	1			40	1		2		3			1	1			40	1		2		3		
+	1939	1	25	3	32	14	1729		"CHILE:  CHILLAN"	-36.25	-72.25	60	8.3	10	30000	4					920	4		4			30000	4					920	4		4		
+	1939	4	18	6	22	45	1732		"CHILE:  NORTH CENTRAL"	-27	-70.5	100	7.4																									
+	1940	10	4	7	54	42	1742		"CHILE:  NORTHERN"	-22	-71	75	7.3																									
+	1940	10	11	18	41	13	1743		"CHILE:  SOUTH CENTRAL"	-41.5	-74.5	33	7																									
+	1943	4	6	16	7	15	1752		"CHILE:  ILLAPEL"	-30.75	-72	35	8.2		11	1						1		1			11	1						1		1		
+	1946	8	2	19	18	48	1764		"CHILE:  NORTHERN"	-26.5	-70.5	60	7.9		2	1						3					2	1						3				
+	1948	12	26	7	12	21	1786		"CHILE:  ANTOFAGASTA"	-22.5	-69	100	7	7																								
+	1949	4	20	3	29	7	1792		"CHILE:  ANGOL, TRAIGUEN"	-38	-73.5	70	7.3		57	2						2					57	2						2				
+	1949	12	17	6	53	30	5202		"CHILE:  TIERRA DEL FUEGO"	-54	-71	33	7.8		1	1						1					1	1						1				
+	1949	12	17	15	7	55	1801		"CHILE:  TIERRA DEL FUEGO"	-54	-71	33	7.8		3	1						1					3	1						1				
+	1950	1	30	0	56	32	1803		"CHILE:  SOUTHERN"	-53.5	-71.5	33	7	6		1												1										
+	1950	12	9	21	38	48			"CHILE-ARGENTINA"	-23.5	-67.5	100	8	7	1	1				2							1	1				2						
+	1953	5	6	17	16	43	1836		"CHILE:  CHILLAN, CONCEPCION"	-36.5	-72.5	60	7.6	10	9	1			26	1	500	4					9	1			26	1	500	4				
+	1953	12	7	2	5	0			"CHILE:  NORTHERN"	-22.1	-68.7	128	7.4		3	1					7.31	3																
+	1955	4	19	20	24	5	1849		"CHILE"	-30	-72	30	7.1	6													1	1						1		1		
+	1956	1	8	20	54	13	1854		"CHILE"	-19	-70		7.1	5		1						1						1						1				
+	1956	12	18	2	31	3	1865		"CHILE:  ANTOFAGASTA"	-25.5	-71	33																										
+	1957	7	29	17	15	14	1871		"CHILE:  ANTOFAGASTA"	-23.5	-71.5	33	7	3																								
+	1958	9	4	21	51	16.9			"CHILE-ARGENTINA"	-33.785	-70.112		6.8		7	1						3																
+	1960	5	21	10	2	50	1901		"CHILE:  CENTRAL"	-37.872	-73.243	35	8.2			1				3		1						1				3		1				
+	1960	5	22	19	11	17	1902	4153	"CHILE:  PUERTO MONTT, VALDIVIA"	-38.143	-73.407	33	9.5	12	2000	4			3000	4	1000	4	58622	4			2226	4			3000	4	1000	4	58622	4		
+	1960	11	1	8	45	59	1906		"CHILE:  CONCEPCION"	-38.5	-75.1	55	7.4			1						1						1						1				
+	1961	10	18	16	51	57	1926		"CHILE:  VALDIVIA, CURICO"	-36.7	-73	15	6.5			1						1						1						1				
+	1962	2	14	6	36	0			"CHILE:  CENTRAL"	-37.8	-72.5	45	7.3									2																
+	1965	2	23	22	11	46	1965		"CHILE:  NORTHERN"	-25.67	-70.63	36	7																									
+	1965	3	22	22	56	28	1966		"CHILE:  CENTRAL"	-31.81	-71.26	58	6	6																								
+	1965	3	28	16	33	0			"CHILE:  CENTRAL"	-32.4	-71.2	61	7.3		400	3					125	4																
+	1965	10	3	16	14	56	1979		"CHILE:  SOUTHERN"	-42.9	-75.13	28	6.5	3																								
+	1966	12	28	8	18	7.4	1984		"CHILE:  TALTAL, CATALINA"	-25.5	-70.7	47	7.8	8	3	1			6	1	0.4	1		3			3	1			6	1	0.4	1		3		
+	1967	11	15	21	32	54	1991		"CHILE:  NORTHERN"	-28.78	-71.19	35	5.9																									
+	1967	12	21	2	25	23	1994		"CHILE:  NORTHERN"	-21.7	-69.5	33	7.5		1	1				3		2		2			1	1				3		2		2		
+	1970	6	14				2022		"CHILE:  SOUTHERN"	-52	-73.8	10	6																									
+	1970	6	19	10	56	13.5	2023		"CHILE:  NORTHERN"	-22.28	-70.55	44	6.4																									
+	1970	11	28	11	8	40	2030		"CHILE:  NORTHERN"	-20.94	-69.81	33	6																									
+	1971	6	17	21		40.9			"CHILE:  CATALINA, ANTOFAGASTA"	-25.5	-69.2	93	6.3	5	1	1						2					1	1						2				
+	1971	7	9	3	3	18.7	2033		"CHILE:  CENTRAL"	-32.5	-71.2	58	7.8	9	83	2			447	3	236.4	4		3			83	2			447	3	236.4	4		3		
+	1972	6	8	18	53	41.7	2048		"CHILE:  CENTRAL"	-30.5	-71.8	39	6.6	7																								
+	1972	12	29	4	51	1.6	2057		"CHILE:  CENTRAL"	-30.6	-71	60	5.4																									
+	1973	10	5	5	47	51.1	2062		"CHILE:  VALPARAISO, LA LIGUA, SANTIAGO"	-32.5	-71.5	14	6.7	7								2																
+	1974	8	18	10	44	12.8	2066		"CHILE:  LA UNION, VALDIVIA"	-38.5	-73.4	36	7.1	6								1												1				
+	1975	3	13	15	26	42.5	2074		"CHILE:  COQUIMBO, LA SERENA"	-29.9	-71.3	4	6.9	8	2	1			25	1		1					2	1			25	1		1				
+	1975	5	10	14	27	38.7			"CHILE:  CENTRAL"	-38.18	-73.23	6	7.7									2																
+	1976	11	30	0	40	57.8			"CHILE:  POZO ALMONTE, OFICINA VICTORIA, ARICA"	-20.52	-68.92	82	7.3	8	1	1			13	1		2				3	1	1			13	1		2				3
+	1978	8	3	18	11	17.1			"CHILE:  NORTHERN:  COPIAPO-TALTAI"	-26.51	-70.54	58	7	9					13	1		3																
+	1981	10	16	3	25	42.2			"CHILE:  OFF CENTRAL COAST, LAS CRUCES"	-33.134	-73.074	33	7.5	6	1	1											1	1										
+	1983	10	4	18	52	13.3	2149		"CHILE:  NORTHERN:  COPOAPO-CHANARAL"	-26.535	-70.563	15	7.3	7	5	1			12	1	1	2	40	1			5	1			12	1	1	2	40	1		
+	1985	3	3	22	47	9.5	2158		"CHILE:  CENTRAL COAST, SAN ANTONIO, VALPARAISO"	-33.132	-71.708	40	8	8	180	3			2575	4	1500	4		4			180	3			2575	4	1500	4		4		
+	1985	3	17	10	41	38.4			"CHILE:  VALPARAISO, VINA DEL MAR"	-32.663	-71.551	33	6.6	7	1	1						2					1	1						2				
+	1985	4	9	1	56	59.4			"CHILE:  NEAR CENTRAL COAST, SANTIAGO-VALPARAISO"	-34.131	-71.618	38	7.5	6	2	1				2		2					2	1				2						
+	1986	12	19	5	47	29			"CHILE:  CENTRAL, VALPARAISO"	-33.071	-72.084	33	5	3						2		1	16	1								2		1	16	1		
+	1987	3	5	9	17	5.2	2169		"CHILE:  ANTOFAGASTA, ARICA"	-24.388	-70.161	62	7.3	6	1	1						2					1	1						2				
+	1987	8	8	15	48	56.7			"CHILE:  ARICA, IQUIQUE"	-19.022	-69.991	70	6.9	7	5	1			112	3	1	2	1000	3			5	1			112	3	1	2	1000	3		
+	1988	2	5	14	1	2.7	2180		"CHILE:  TALTAL"	-24.753	-70.433	37	6.7									1												1				
+	1995	7	30	5	11	23.6	2249		"CHILE:  ANTOFAGASTA, CALAMA, MEJILLONES"	-23.34	-70.294	46	8	7	3	1			58	2	1.66	2	115	3			3	1					1.791	2	115	3		
+	1995	11	1	0	35	32.7	2255		"CHILE:  NEAR CENTRAL COAST"	-28.906	-71.417	20	6.7																									
+	1996	9	5	8	14	14.4	2266		"CHILE:  EASTER ISLAND REGION"	-22.118	-113.436	10	6.9																									
+	1997	10	15	1	3	33.4			"CHILE:  PUEBLO NUEVO, COQUIMBO, LA CHIMBA"	-30.933	-71.22	58	7.1		8	1			300	3	48	4	5000	4	15700	4	8	1			300	3	48	4	5000	4	15700	4
+	2002	1	14	15	36	26.4			"CHILE: NORTHERN: CUYA, HUARA, IQUIQUE, POZO ALMONTE"	-19.384	-69.231	33	5.6									1				1								1				1
+	2002	4	1	19	59	32.4			"CHILE:  CENTRAL:  COQUIMBO, LA SERENA, OVALLE"	-29.67	-71.384	71	6.4									1												1				
+	2002	4	18	16	8	36.7			"CHILE:  COPIAPO, TALTAL"	-27.535	-70.586	62	6.6						19	1		2	34	1	575	3					19	1		2	34	1	575	3
+	2003	6	20	13	30	41.6			"CHILE:  OVALLE, COQUIMBO; ARGENTINA:  SAN JUAN"	-30.608	-71.637	33	6.8	6					1	1		1				2					1	1		1				2
+	2004	5	3	4	36	50			"CHILE: CANETE"	-37.695	-73.406	21	6.6	6								1												1				
+	2004	6	15	11	16	31.5			"CHILE: CARAHUE, IMPERIAL, TEMUCO"	-38.854	-73.155	38	5.9	6								1												1				
+	2005	6	13	22	44	33.9			"CHILE:  TARAPACA"	-19.987	-69.197	116	7.7		11	1			200	3			544	3			11	1			200	3			544	3		
+	2005	8	14	2	39	40.3			"CHILE:  TARAPACA"	-19.78	-68.98	11	5.8									1												1				
+	2007	4	21	17	53	46.3	3044		"CHILE:  SOUTHERN"	-45.243	-72.648	37	6.2	7	2	1						1			2	1	10	1						1			2	1
+	2007	11	14	15	40	50.5	3293		"CHILE:  TOCOPILLA, MARIA ELENA"	-22.247	-69.89	40	7.7	8	2	1			65	2		3		4			2	1			65	2		3		4		
+	2007	12	15	18	22	27.1			"CHILE:  OFF CENTRAL COAST, VINA DEL MAR, VALPARAISO"	-32.689	-71.695	25	5.9						4	1		1		1							4	1		1		1		
+	2010	2	27	6	34	11.5	4682		"CHILE:  MAULE, CONCEPCION, TALCAHUANO"	-36.122	-72.898	22	8.8	9	402	3			12000	4	30000	4			500000	4	558	3			12000	4	30000	4			500000	4
+	2010	3	11	14	39	43.9	4722		"CHILE:  RANCAGUA"	-34.29	-71.891	11	6.9									1												1				
+	2011	2	11	20	5	30.7	5406		"CHILE:  OFF COAST CENTRAL"	-36.474	-73.125	28	6.8																									
+	2012	3	25	22	37	6			"CHILE:  PARRAL, SANTIAGO"	-35.2	-72.217	41	7.2		1	1			14	1		1				2	1	1			14	1		1				2
+	2012	4	17	3	50	15.6			"CHILE:  VALPARAISO"	-32.625	-71.365	29	6.7		2	1						1				2	2	1						1				2
+	2012	5	14	10	0	40.2			"CHILE:  ARICA; PERU:  TACNA"	-17.678	-69.591	10	6.3									1												1				
+	2014	3	16	21	16	29.6	5555		"CHILE:  IQUIQUE"	-19.981	-70.702	20	6.7	7								1												1				
+	2014	4	1	23	46	47.3	5557		"CHILE:  NORTHERN:  IQUIQUE, ALTO HOSPICIO"	-19.61	-70.769	25	8.2	8	7	1					100	4			2600	4	7	1					100	4			2600	4
+	2014	4	3	2	43	13.1	5558		"CHILE:  NORTHERN:  IQUIQUE"	-20.571	-70.493	22	7.7	8																								
+	2014	10	9	2	14	31.4	5577		"CHILE: EASTER ISLAND REGION"	-32.108	-110.811	17	7																									
+	2015	9	16	22	54	32.9	5590		"CHILE:  CENTRAL"	-31.573	-71.674	22	8.3	9	7	1	1	1	14	1	600	4	2305	4	10044	4	15	1	1	1	14	1	600	4	2305	4	10044	4
+	2015	11	11	1	54	38.6	5592		"CHILE:  LA SERENA"	-29.507	-72.007	12	6.9	7																								
+	2016	12	25	14	22	27	5637		"CHILE"	-43.406	-73.941	38	7.6	7								1												1				
+	2017	4	24	21	38	30.8	5647		"CHILE:  VALPARAISO"	-33.038	-72.062	28	6.9	7																								
+	2017	8	2	7	15	13.7			"CHILE:  SANTIAGO"	-33.212	-70.626	92	5.4	6	1	1											1	1										
+	2019	1	20	1	32	48			"CHILE:  COQUIMBO, LA SERENA"	-30.04	-71.382	63	6.7		2	1						2			1061	4	2	1						2			1061	4
+	2019	6	14	0	19	12	5710		"CHILE:  COQUIMBO"	-30.056	-72.082	11	6.4																									
+	2019	9	26	16	36	18			"CHILE:  SOUTH CENTRAL"	-40.815	-72.002	129	6.1		1	1											1	1										
+	2019	9	29	15	57	53			"CHILE:  CONCEPCION"	-35.473	-73.162	11	6.8		1	1											1	1										
+	2020	12	27	21	39	14	5760		"CHILE:  OFF COAST CENTRAL"	-39.343	-74.99	10	6.7	5																								
+	2024	7	19	1	50	47			"CHILE:  NORTHERN"	-23.047	-67.782	117	7.4	6	1	1						2					1	1						2				
